@@ -1,0 +1,48 @@
+Time:29.07.19 01:59:17
+Restore ranges: [0;+Inf)
+Analazing files:4:
+C:\Users\User\Desktop\Data\data2\10 Гц.txt
+C:\Users\User\Desktop\Data\data2\9.0.txt
+C:\Users\User\Desktop\Data\data2\8.0.txt
+C:\Users\User\Desktop\Data\data2\7.0.txt
+Analization start
+Start:29.07.19 01:59:17
+File(1/4):	C:\Users\User\Desktop\Data\data2\10 Гц.txt
+Done:29.07.19 01:59:18
+Result:OK
+Ranges:[0;2001]
+SavedTo:C:\Users\User\Desktop\Results\FreqsSelector8
+FT:C:\Users\User\Desktop\Results\FreqsSelector8\dft_[0-2001]_10 Гц.txt
+IFT:C:\Users\User\Desktop\Results\FreqsSelector8\idft_[0-2001]_10 Гц.txt
+MINS:C:\Users\User\Desktop\Results\FreqsSelector8\MINS_[0-2001]_10 Гц.txt
+MAXS:C:\Users\User\Desktop\Results\FreqsSelector8\MAXS_[0-2001]_10 Гц.txt
+Start:29.07.19 01:59:19
+File(2/4):	C:\Users\User\Desktop\Data\data2\9.0.txt
+Done:29.07.19 01:59:20
+Result:OK
+Ranges:[0;2000]
+SavedTo:C:\Users\User\Desktop\Results\FreqsSelector8
+FT:C:\Users\User\Desktop\Results\FreqsSelector8\dft_[0-2000]_9.0.txt
+IFT:C:\Users\User\Desktop\Results\FreqsSelector8\idft_[0-2000]_9.0.txt
+MINS:C:\Users\User\Desktop\Results\FreqsSelector8\MINS_[0-2000]_9.0.txt
+MAXS:C:\Users\User\Desktop\Results\FreqsSelector8\MAXS_[0-2000]_9.0.txt
+Start:29.07.19 01:59:20
+File(3/4):	C:\Users\User\Desktop\Data\data2\8.0.txt
+Done:29.07.19 01:59:22
+Result:OK
+Ranges:[0;2000]
+SavedTo:C:\Users\User\Desktop\Results\FreqsSelector8
+FT:C:\Users\User\Desktop\Results\FreqsSelector8\dft_[0-2000]_8.0.txt
+IFT:C:\Users\User\Desktop\Results\FreqsSelector8\idft_[0-2000]_8.0.txt
+MINS:C:\Users\User\Desktop\Results\FreqsSelector8\MINS_[0-2000]_8.0.txt
+MAXS:C:\Users\User\Desktop\Results\FreqsSelector8\MAXS_[0-2000]_8.0.txt
+Start:29.07.19 01:59:22
+File(4/4):	C:\Users\User\Desktop\Data\data2\7.0.txt
+Done:29.07.19 01:59:23
+Result:OK
+Ranges:[0;2000]
+SavedTo:C:\Users\User\Desktop\Results\FreqsSelector8
+FT:C:\Users\User\Desktop\Results\FreqsSelector8\dft_[0-2000]_7.0.txt
+IFT:C:\Users\User\Desktop\Results\FreqsSelector8\idft_[0-2000]_7.0.txt
+MINS:C:\Users\User\Desktop\Results\FreqsSelector8\MINS_[0-2000]_7.0.txt
+MAXS:C:\Users\User\Desktop\Results\FreqsSelector8\MAXS_[0-2000]_7.0.txt

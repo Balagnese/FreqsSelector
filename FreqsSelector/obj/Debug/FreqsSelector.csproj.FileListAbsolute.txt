@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\bin\Debug\FreqsSelector.exe.config
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\bin\Debug\FreqsSelector.exe
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\bin\Debug\FreqsSelector.pdb
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\obj\Debug\FreqsSelector.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\obj\Debug\FreqsSelector.Form1.resources
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\obj\Debug\FreqsSelector.Properties.Resources.resources
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\obj\Debug\FreqsSelector.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\obj\Debug\FreqsSelector.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\obj\Debug\FreqsSelector.exe
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\obj\Debug\FreqsSelector.pdb
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\obj\Debug\FreqsSelector.AnalizeRange.resources
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\bin\Debug\FreqsControlls.dll
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\bin\Debug\FreqsControlls.pdb
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\obj\Debug\FreqsSelector.csproj.CopyComplete
+C:\Users\User\source\repos\FreqsSelector\FreqsSelector\obj\Debug\FreqsSelector.VerificationForm.resources

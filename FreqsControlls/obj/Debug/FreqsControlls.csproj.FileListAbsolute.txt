@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\FreqsSelector\FreqsControlls\bin\Debug\FreqsControlls.dll
+C:\Users\User\source\repos\FreqsSelector\FreqsControlls\bin\Debug\FreqsControlls.pdb
+C:\Users\User\source\repos\FreqsSelector\FreqsControlls\obj\Debug\FreqsControlls.RangeSelect.resources
+C:\Users\User\source\repos\FreqsSelector\FreqsControlls\obj\Debug\FreqsControlls.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FreqsSelector\FreqsControlls\obj\Debug\FreqsControlls.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FreqsSelector\FreqsControlls\obj\Debug\FreqsControlls.dll
+C:\Users\User\source\repos\FreqsSelector\FreqsControlls\obj\Debug\FreqsControlls.pdb
+C:\Users\User\source\repos\FreqsSelector\FreqsControlls\obj\Debug\FreqsControlls.Properties.Resources.resources
+C:\Users\User\source\repos\FreqsSelector\FreqsControlls\obj\Debug\FreqsControlls.csprojAssemblyReference.cache

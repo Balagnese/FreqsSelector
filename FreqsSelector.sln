@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreqsSelector", "FreqsSelector\FreqsSelector.csproj", "{EE1C0CC6-59AA-434D-983F-B1A692B9DD25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreqsControlls", "FreqsControlls\FreqsControlls.csproj", "{C7B3FEDB-699B-40DB-87D9-6CC172BB0571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE1C0CC6-59AA-434D-983F-B1A692B9DD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1C0CC6-59AA-434D-983F-B1A692B9DD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1C0CC6-59AA-434D-983F-B1A692B9DD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1C0CC6-59AA-434D-983F-B1A692B9DD25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B3FEDB-699B-40DB-87D9-6CC172BB0571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B3FEDB-699B-40DB-87D9-6CC172BB0571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B3FEDB-699B-40DB-87D9-6CC172BB0571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B3FEDB-699B-40DB-87D9-6CC172BB0571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2616A39-7CC4-4F60-AE9F-971D611CF89D}
+	EndGlobalSection
+EndGlobal
